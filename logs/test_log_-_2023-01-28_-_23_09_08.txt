@@ -1,0 +1,368 @@
+
+> morse-decoder@1.0.0 test
+> mocha test.js
+
+
+
+  Easy
+    1) Sentence test 1
+    2) Sentence test 2
+    3) Sentence test 3
+    4) Sentence test 4
+    5) Sentence test 5
+    6) Sentence test 6
+    7) Sentence test 7
+    8) Sentence test 8
+    9) Sentence test 9
+    10) Sentence test 10
+
+  Medium
+    11) Medium line length test 1
+    12) Medium line length test 2
+    13) Medium line length test 3
+    14) Medium line length test 4
+    15) Medium line length test 5
+    16) Medium line length test 6
+    17) Medium line length test 7
+    18) Medium line length test 8
+    19) Medium line length test 9
+    20) Medium line length test 10
+    21) Medium line length test 11
+    22) Medium line length test 12
+    23) Medium line length test 13
+    24) Medium line length test 14
+    25) Medium line length test 15
+    26) Medium line length test 16
+    27) Medium line length test 17
+    28) Medium line length test 18
+    29) Medium line length test 19
+    30) Medium line length test 20
+
+  Hard (what's going on)
+    31) Awesome line length test 1
+    32) Awesome line length test 2
+    33) Awesome line length test 3
+    34) Awesome line length test 4
+    35) Awesome line length test 5
+    36) Awesome line length test 6
+    37) Awesome line length test 7
+    38) Awesome line length test 8
+    39) Awesome line length test 9
+    40) Awesome line length test 10
+    41) Awesome line length test 11
+    42) Awesome line length test 12
+    43) Awesome line length test 13
+    44) Awesome line length test 14
+    45) Awesome line length test 15
+    46) Awesome line length test 16
+    47) Awesome line length test 17
+    48) Awesome line length test 18
+    49) Awesome line length test 19
+    50) Awesome line length test 20
+
+
+  0 passing (58ms)
+  50 failing
+
+  1) Easy
+       Sentence test 1:
+     AssertionError: expected undefined to equal 'hello world'
+      at Context.<anonymous> (test.js:8:33)
+      at process.processImmediate (node:internal/timers:471:21)
+
+  2) Easy
+       Sentence test 2:
+     AssertionError: expected undefined to equal 'the quick brown fox jumps over the la…'
+      at Context.<anonymous> (test.js:14:33)
+      at process.processImmediate (node:internal/timers:471:21)
+
+  3) Easy
+       Sentence test 3:
+     AssertionError: expected undefined to equal 'rolling scope school'
+      at Context.<anonymous> (test.js:20:33)
+      at process.processImmediate (node:internal/timers:471:21)
+
+  4) Easy
+       Sentence test 4:
+     AssertionError: expected undefined to equal 'road to programming'
+      at Context.<anonymous> (test.js:26:33)
+      at process.processImmediate (node:internal/timers:471:21)
+
+  5) Easy
+       Sentence test 5:
+     AssertionError: expected undefined to equal 'someone reads this'
+      at Context.<anonymous> (test.js:32:33)
+      at process.processImmediate (node:internal/timers:471:21)
+
+  6) Easy
+       Sentence test 6:
+     AssertionError: expected undefined to equal 'hey you help me'
+      at Context.<anonymous> (test.js:38:33)
+      at process.processImmediate (node:internal/timers:471:21)
+
+  7) Easy
+       Sentence test 7:
+     AssertionError: expected undefined to equal 'they keep me in the basement'
+      at Context.<anonymous> (test.js:44:33)
+      at process.processImmediate (node:internal/timers:471:21)
+
+  8) Easy
+       Sentence test 8:
+     AssertionError: expected undefined to equal 'save me'
+      at Context.<anonymous> (test.js:50:33)
+      at process.processImmediate (node:internal/timers:471:21)
+
+  9) Easy
+       Sentence test 9:
+     AssertionError: expected undefined to equal 'call the police'
+      at Context.<anonymous> (test.js:56:33)
+      at process.processImmediate (node:internal/timers:471:21)
+
+  10) Easy
+       Sentence test 10:
+     AssertionError: expected undefined to equal 'answer on the ultimate question of li…'
+      at Context.<anonymous> (test.js:62:33)
+      at process.processImmediate (node:internal/timers:471:21)
+
+  11) Medium
+       Medium line length test 1:
+     AssertionError: expected undefined to equal 'ed3ca775'
+      at Context.<anonymous> (test.js:71:33)
+      at process.processImmediate (node:internal/timers:471:21)
+
+  12) Medium
+       Medium line length test 2:
+     AssertionError: expected undefined to equal '829b4b8c'
+      at Context.<anonymous> (test.js:77:33)
+      at process.processImmediate (node:internal/timers:471:21)
+
+  13) Medium
+       Medium line length test 3:
+     AssertionError: expected undefined to equal '0e596200'
+      at Context.<anonymous> (test.js:83:33)
+      at process.processImmediate (node:internal/timers:471:21)
+
+  14) Medium
+       Medium line length test 4:
+     AssertionError: expected undefined to equal '17bf2596'
+      at Context.<anonymous> (test.js:89:33)
+      at process.processImmediate (node:internal/timers:471:21)
+
+  15) Medium
+       Medium line length test 5:
+     AssertionError: expected undefined to equal 'b27d0c5c'
+      at Context.<anonymous> (test.js:95:33)
+      at process.processImmediate (node:internal/timers:471:21)
+
+  16) Medium
+       Medium line length test 6:
+     AssertionError: expected undefined to equal 'd3de8eac'
+      at Context.<anonymous> (test.js:101:33)
+      at process.processImmediate (node:internal/timers:471:21)
+
+  17) Medium
+       Medium line length test 7:
+     AssertionError: expected undefined to equal '0a145c4f'
+      at Context.<anonymous> (test.js:107:33)
+      at process.processImmediate (node:internal/timers:471:21)
+
+  18) Medium
+       Medium line length test 8:
+     AssertionError: expected undefined to equal '25b31a63'
+      at Context.<anonymous> (test.js:113:33)
+      at process.processImmediate (node:internal/timers:471:21)
+
+  19) Medium
+       Medium line length test 9:
+     AssertionError: expected undefined to equal 'e2ebf340'
+      at Context.<anonymous> (test.js:119:33)
+      at process.processImmediate (node:internal/timers:471:21)
+
+  20) Medium
+       Medium line length test 10:
+     AssertionError: expected undefined to equal 'c4335a82'
+      at Context.<anonymous> (test.js:125:33)
+      at process.processImmediate (node:internal/timers:471:21)
+
+  21) Medium
+       Medium line length test 11:
+     AssertionError: expected undefined to equal '6c443ece'
+      at Context.<anonymous> (test.js:131:33)
+      at process.processImmediate (node:internal/timers:471:21)
+
+  22) Medium
+       Medium line length test 12:
+     AssertionError: expected undefined to equal 'a6069f50'
+      at Context.<anonymous> (test.js:137:33)
+      at process.processImmediate (node:internal/timers:471:21)
+
+  23) Medium
+       Medium line length test 13:
+     AssertionError: expected undefined to equal 'a836fdc3'
+      at Context.<anonymous> (test.js:143:33)
+      at process.processImmediate (node:internal/timers:471:21)
+
+  24) Medium
+       Medium line length test 14:
+     AssertionError: expected undefined to equal '5cc6c2a9'
+      at Context.<anonymous> (test.js:149:33)
+      at process.processImmediate (node:internal/timers:471:21)
+
+  25) Medium
+       Medium line length test 15:
+     AssertionError: expected undefined to equal '4cdf5da0'
+      at Context.<anonymous> (test.js:155:33)
+      at process.processImmediate (node:internal/timers:471:21)
+
+  26) Medium
+       Medium line length test 16:
+     AssertionError: expected undefined to equal 'fb3b6acb'
+      at Context.<anonymous> (test.js:161:33)
+      at process.processImmediate (node:internal/timers:471:21)
+
+  27) Medium
+       Medium line length test 17:
+     AssertionError: expected undefined to equal 'ed3ca775'
+      at Context.<anonymous> (test.js:167:33)
+      at process.processImmediate (node:internal/timers:471:21)
+
+  28) Medium
+       Medium line length test 18:
+     AssertionError: expected undefined to equal '829b4b8c'
+      at Context.<anonymous> (test.js:173:33)
+      at process.processImmediate (node:internal/timers:471:21)
+
+  29) Medium
+       Medium line length test 19:
+     AssertionError: expected undefined to equal '0e596200'
+      at Context.<anonymous> (test.js:179:33)
+      at process.processImmediate (node:internal/timers:471:21)
+
+  30) Medium
+       Medium line length test 20:
+     AssertionError: expected undefined to equal '17bf2596'
+      at Context.<anonymous> (test.js:185:33)
+      at process.processImmediate (node:internal/timers:471:21)
+
+  31) Hard (what's going on)
+       Awesome line length test 1:
+     AssertionError: expected undefined to equal 'ed3ca775829b4b8c0e59620017bf2596b27d0…'
+      at Context.<anonymous> (test.js:193:33)
+      at process.processImmediate (node:internal/timers:471:21)
+
+  32) Hard (what's going on)
+       Awesome line length test 2:
+     AssertionError: expected undefined to equal 'ed3ca775829b4b8c0e59620017bf2596b27d0…'
+      at Context.<anonymous> (test.js:199:33)
+      at process.processImmediate (node:internal/timers:471:21)
+
+  33) Hard (what's going on)
+       Awesome line length test 3:
+     AssertionError: expected undefined to equal 'ed3ca775829b4b8c0e59620017bf2596b27d0…'
+      at Context.<anonymous> (test.js:205:33)
+      at process.processImmediate (node:internal/timers:471:21)
+
+  34) Hard (what's going on)
+       Awesome line length test 4:
+     AssertionError: expected undefined to equal 'ed3ca775829b4b8c0e59620017bf2596b27d0…'
+      at Context.<anonymous> (test.js:211:33)
+      at process.processImmediate (node:internal/timers:471:21)
+
+  35) Hard (what's going on)
+       Awesome line length test 5:
+     AssertionError: expected undefined to equal 'ed3ca775829b4b8c0e59620017bf2596b27d0…'
+      at Context.<anonymous> (test.js:217:33)
+      at process.processImmediate (node:internal/timers:471:21)
+
+  36) Hard (what's going on)
+       Awesome line length test 6:
+     AssertionError: expected undefined to equal 'ed3ca775829b4b8c0e59620017bf2596b27d0…'
+      at Context.<anonymous> (test.js:223:33)
+      at process.processImmediate (node:internal/timers:471:21)
+
+  37) Hard (what's going on)
+       Awesome line length test 7:
+     AssertionError: expected undefined to equal 'ed3ca775829b4b8c0e59620017bf2596b27d0…'
+      at Context.<anonymous> (test.js:229:33)
+      at process.processImmediate (node:internal/timers:471:21)
+
+  38) Hard (what's going on)
+       Awesome line length test 8:
+     AssertionError: expected undefined to equal 'ed3ca775829b4b8c0e59620017bf2596b27d0…'
+      at Context.<anonymous> (test.js:235:33)
+      at process.processImmediate (node:internal/timers:471:21)
+
+  39) Hard (what's going on)
+       Awesome line length test 9:
+     AssertionError: expected undefined to equal 'ed3ca775829b4b8c0e59620017bf2596b27d0…'
+      at Context.<anonymous> (test.js:241:33)
+      at process.processImmediate (node:internal/timers:471:21)
+
+  40) Hard (what's going on)
+       Awesome line length test 10:
+     AssertionError: expected undefined to equal 'ed3ca775829b4b8c0e59620017bf2596b27d0…'
+      at Context.<anonymous> (test.js:247:33)
+      at process.processImmediate (node:internal/timers:471:21)
+
+  41) Hard (what's going on)
+       Awesome line length test 11:
+     AssertionError: expected undefined to equal 'ed3ca775829b4b8c0e59620017bf2596b27d0…'
+      at Context.<anonymous> (test.js:253:33)
+      at process.processImmediate (node:internal/timers:471:21)
+
+  42) Hard (what's going on)
+       Awesome line length test 12:
+     AssertionError: expected undefined to equal 'ed3ca775829b4b8c0e59620017bf2596b27d0…'
+      at Context.<anonymous> (test.js:259:33)
+      at process.processImmediate (node:internal/timers:471:21)
+
+  43) Hard (what's going on)
+       Awesome line length test 13:
+     AssertionError: expected undefined to equal 'ed3ca775829b4b8c0e59620017bf2596b27d0…'
+      at Context.<anonymous> (test.js:265:33)
+      at process.processImmediate (node:internal/timers:471:21)
+
+  44) Hard (what's going on)
+       Awesome line length test 14:
+     AssertionError: expected undefined to equal 'ed3ca775829b4b8c0e59620017bf2596b27d0…'
+      at Context.<anonymous> (test.js:271:33)
+      at process.processImmediate (node:internal/timers:471:21)
+
+  45) Hard (what's going on)
+       Awesome line length test 15:
+     AssertionError: expected undefined to equal 'ed3ca775829b4b8c0e59620017bf2596b27d0…'
+      at Context.<anonymous> (test.js:277:33)
+      at process.processImmediate (node:internal/timers:471:21)
+
+  46) Hard (what's going on)
+       Awesome line length test 16:
+     AssertionError: expected undefined to equal 'ed3ca775829b4b8c0e59620017bf2596b27d0…'
+      at Context.<anonymous> (test.js:283:33)
+      at process.processImmediate (node:internal/timers:471:21)
+
+  47) Hard (what's going on)
+       Awesome line length test 17:
+     AssertionError: expected undefined to equal 'ed3ca775829b4b8c0e59620017bf2596b27d0…'
+      at Context.<anonymous> (test.js:289:33)
+      at process.processImmediate (node:internal/timers:471:21)
+
+  48) Hard (what's going on)
+       Awesome line length test 18:
+     AssertionError: expected undefined to equal 'ed3ca775829b4b8c0e59620017bf2596b27d0…'
+      at Context.<anonymous> (test.js:295:33)
+      at process.processImmediate (node:internal/timers:471:21)
+
+  49) Hard (what's going on)
+       Awesome line length test 19:
+     AssertionError: expected undefined to equal 'ed3ca775829b4b8c0e59620017bf2596b27d0…'
+      at Context.<anonymous> (test.js:301:33)
+      at process.processImmediate (node:internal/timers:471:21)
+
+  50) Hard (what's going on)
+       Awesome line length test 20:
+     AssertionError: expected undefined to equal 'ed3ca775829b4b8c0e59620017bf2596b27d0…'
+      at Context.<anonymous> (test.js:307:33)
+      at process.processImmediate (node:internal/timers:471:21)
+
+
+
